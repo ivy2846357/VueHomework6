@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhomework6"]=self["webpackChunkhomework6"]||[]).push([[602],{1602:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=r(3396);const t={class:"about"},a=(0,u._)("h1",null,"This is an about page",-1),o=[a];function s(n,e){return(0,u.wg)(),(0,u.iD)("div",t,o)}var c=r(89);const i={},h=(0,c.Z)(i,[["render",s]]);var f=h}}]);
+//# sourceMappingURL=602.d705fcf7.js.map

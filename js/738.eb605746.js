@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhomework6"]=self["webpackChunkhomework6"]||[]).push([[738],{7738:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(3396);const u={class:"mt-5"};function o(n,e,r,o,c,s){return(0,t.wg)(),(0,t.iD)("h1",u,"這裡是首頁")}var c={mounted(){}},s=r(89);const a=(0,s.Z)(c,[["render",o]]);var f=a}}]);
+//# sourceMappingURL=738.eb605746.js.map
